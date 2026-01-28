@@ -604,3 +604,4 @@ export function MeatMarketplace({ onNavigate }: MeatMarketplaceProps) {
     </div>
   );
 }
+

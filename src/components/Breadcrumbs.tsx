@@ -35,3 +35,5 @@ export function Breadcrumbs({ items, currentPage, onNavigate }: BreadcrumbsProps
     </nav>
   );
 }
+
+

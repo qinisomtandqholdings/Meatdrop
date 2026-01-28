@@ -270,3 +270,4 @@ export function Header({ currentPage, onNavigate, cartItemCount = 0, walletConne
     </div>
   );
 }
+

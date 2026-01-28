@@ -308,3 +308,4 @@ export function HomePage({ onNavigate }: HomePageProps) {
     </div>
   );
 }
+

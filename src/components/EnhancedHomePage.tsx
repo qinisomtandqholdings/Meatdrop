@@ -324,3 +324,5 @@ export function EnhancedHomePage({ onNavigate }: EnhancedHomePageProps) {
     </div>
   );
 }
+
+

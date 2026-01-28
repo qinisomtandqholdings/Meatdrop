@@ -424,3 +424,4 @@ export function CheckoutPage({ onNavigate }: CheckoutPageProps) {
     </div>
   );
 }
+

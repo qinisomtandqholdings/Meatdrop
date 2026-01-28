@@ -157,3 +157,4 @@ export function QuickNavigation({ currentPage, onNavigate }: QuickNavigationProp
     </Card>
   );
 }
+

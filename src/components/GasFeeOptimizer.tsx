@@ -266,3 +266,5 @@ export function GasFeeOptimizer({ compact = false }: GasFeeOptimizerProps) {
     </Card>
   );
 }
+
+

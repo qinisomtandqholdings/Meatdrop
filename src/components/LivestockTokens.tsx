@@ -490,3 +490,4 @@ export function LivestockTokens({ onBuyToken, onViewDetails }: LivestockTokensPr
     </div>
   );
 }
+

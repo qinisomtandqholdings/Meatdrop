@@ -340,3 +340,5 @@ export function AuctionDetails({ onBack }: AuctionDetailsProps) {
     </div>
   );
 }
+
+

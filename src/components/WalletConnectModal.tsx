@@ -230,3 +230,4 @@ export function WalletConnectModal({ isOpen, onClose }: WalletConnectModalProps)
     </Dialog>
   );
 }
+

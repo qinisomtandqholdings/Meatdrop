@@ -186,3 +186,5 @@ export function AuctionCard({ auction, onViewDetails }: AuctionCardProps) {
     </Card>
   );
 }
+
+

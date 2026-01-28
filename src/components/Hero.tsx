@@ -73,3 +73,5 @@ export function Hero({ onNavigate }: HeroProps) {
     </section>
   );
 }
+
+
