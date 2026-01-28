@@ -6,5 +6,12 @@ export default defineConfig({
   build: {
     outDir: 'dist',
     sourcemap: false,
+    rollupOptions: {
+      onwarn(warning) {
+        if (warning.code === 'UNRESOLVED_IMPORT') {
+          return
+        }
+      }
+    }
   },
 })
