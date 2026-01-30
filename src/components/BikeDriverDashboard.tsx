@@ -1,6 +1,3 @@
-FILE 2: Create src/components/BikeDriverDashboard.tsx
-Open VS Code, create a new file at src/components/BikeDriverDashboard.tsx, and paste this complete code:
-
 import { useState } from "react";
 import {
   Package,
